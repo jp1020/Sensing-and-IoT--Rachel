@@ -10,7 +10,7 @@ button_pin = 5
 
 # Speech API key, location, and language
 speech_api_key = 'de1c6cd6162e4fed86a8c459b926a2fd'
-sentiment_api_key = 80880f027a514db2a1d7eb8c6e43f2ae'  # Replace with your Sentiment Analysis API key
+sentiment_api_key = '80880f027a514db2a1d7eb8c6e43f2ae'
 sentiment_api_endpoint = 'https://rachelsface.cognitiveservices.azure.com/'
 location = 'uksouth'
 language = 'en-GB'
